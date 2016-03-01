@@ -9,7 +9,7 @@ User can control OpenCV parameters via MIDI physical controller.
 
 ## Features
 
-- 
+- You can get the values of sliders, volumes and buttons of your MIDI physical controller via MIDI i/f in polling style.
 
 ## Requirement
 
